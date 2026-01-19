@@ -54,14 +54,16 @@ suicide_project/
    ```bash
    pip install -r requirements.txt
 streamlit run app.py
-    📊 Dataset Information
+
+---
+📊 Dataset Information
 
 Text-based dataset labeled for suicidal ideation
 
 Cleaned and preprocessed for model training
 
 Feature extraction using TF-IDF Vectorization
-
+---
 📌 Future Enhancements
 
 Integration of deep learning models (LSTM / BERT)
@@ -75,6 +77,8 @@ Deployment on cloud platforms
 👩‍💻 Author
 
 Pranathi
+
+---
 ⚠️ Disclaimer
 
 This project is intended for educational and research purposes only.
